@@ -1,5 +1,5 @@
 ## Hi there 👋 
-> #### My name is Ismail
+> #### My name is Ismayyl
 > #### I am a junior front-end developer
 ---
 * ###### I am engaged in the study of the following technologies
