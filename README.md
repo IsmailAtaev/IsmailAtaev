@@ -1,6 +1,6 @@
 ## Hi there 👋 
 > #### My name is Ismayyl
-> #### I am a junior front-end developer
+> #### I am a junior Full-Stakc developer
 ---
 * ###### I am engaged in the study of the following technologies
 
