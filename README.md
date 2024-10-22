@@ -20,4 +20,3 @@
 #### Contacts
 *  [LinkedIn: linkedin.com/in/ismayyl-atayev-834259228](https://www.linkedin.com/in/ismayyl-atayev-834259228/)
 *  email: ataewisma@gmail.com
-*  [Telegram: Ismayyl01](https://t.me/Ismayyl01)
